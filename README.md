@@ -13,6 +13,7 @@ In daily work, interesting code snippets and demos, html js css special configur
   - [获取网址参数](./snippets/getURLParameters.md)
   - [检查当前 Tab 页是否在前台](./snippets/isTabInView.md)
   - [Promise 版本 sleep 函数](./snippets/sleep.md)
+  - [正则](./snippets/RegExp.md)
 
 ## demos
  - node-cli-test: [基于 node 制作命令行工具](https://github.com/zpc7/Blog/blob/master/SkillPoints/Node-cli-tool.md)
