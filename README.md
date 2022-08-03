@@ -19,3 +19,7 @@ In daily work, interesting code snippets and demos, html js css special configur
  - node-cli-test: [基于 node 制作命令行工具](https://github.com/zpc7/Blog/blob/master/SkillPoints/Node-cli-tool.md)
  - zpc7-npm-package-test: 发布一个最简单的 npm 包
 
+
+## 强烈推荐
+- [30 seconds of code](https://www.30secondsofcode.org/)
+  > 上新了很多代码片段 `js` `css` `react` `git` 等 
