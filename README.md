@@ -10,6 +10,7 @@ In daily work, interesting code snippets and demos, html js css special configur
 
 ## snippets
   - [在树结构中, 给定子节点, 获取到他的父级节点](./snippets/findValueInTree.md)
+  - [实现 lodash 的 omit](./snippets/omit.md)
   - [获取网址参数](./snippets/getURLParameters.md)
   - [检查当前 Tab 页是否在前台](./snippets/isTabInView.md)
   - [Promise 版本 sleep 函数](./snippets/sleep.md)
