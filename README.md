@@ -14,6 +14,7 @@ In daily work, interesting code snippets and demos, html js css special configur
   - [深度冻结对象](./snippets/deepFreeze.md)
   - [获取网址参数](./snippets/getURLParameters.md)
   - [检查当前 Tab 页是否在前台](./snippets/isTabInView.md)
+  - [判断元素是否在视口中可见](./snippets/判断元素是否在视口中可见.md)
   - [Promise 版本 sleep 函数](./snippets/sleep.md)
   - [正则](./snippets/RegExp.md)
 
