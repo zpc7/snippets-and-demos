@@ -1,4 +1,5 @@
 const container = document.querySelector(".container");
+
 const coffees = [
   {
     name: "Perspiciatis",
@@ -43,7 +44,7 @@ const showCoffees = () => {
     ({ name, image }) =>
       (output += `
               <div class="card">
-                <img class="card--avatar" src=/pwa-with-vanilla-js/${image} />
+                <img class="card--avatar" src=./${image} />
                 <h1 class="card--title">${name}</h1>
                 <a class="card--link" href="#">Taste</a>
               </div>
@@ -57,7 +58,7 @@ document.addEventListener("DOMContentLoaded", showCoffees);
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', function () {
       navigator.serviceWorker
-          .register('/pwa-with-vanilla-js/serviceWorker.js')
+          .register('./serviceWorker.js')
           .then((res) => console.log('service worker registered'))
           .catch((err) => console.log('service worker not registered', err));
   });
