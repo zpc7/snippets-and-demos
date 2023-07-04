@@ -18,6 +18,9 @@ In daily work, interesting code snippets and demos, html js css special configur
   - [Promise 版本 sleep 函数](./snippets/sleep.md)
   - [正则](./snippets/RegExp.md)
 
+## tips
+  - [Linux 修改终端样式](./tips/terminal-style.md)
+
 ## demos
  - node-cli-test: [基于 node 制作命令行工具](https://github.com/zpc7/Blog/blob/master/SkillPoints/Node-cli-tool.md)
  - zpc7-npm-package-test: 发布一个最简单的 npm 包
