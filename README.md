@@ -20,6 +20,7 @@ In daily work, interesting code snippets and demos, html js css special configur
 
 ## tips
   - [Linux 修改终端样式](./tips/terminal-style.md)
+  - [统计文件夹下文件数量](./tips/statistics-file.md)
 
 ## demos
  - node-cli-test: [基于 node 制作命令行工具](https://github.com/zpc7/Blog/blob/master/SkillPoints/Node-cli-tool.md)
